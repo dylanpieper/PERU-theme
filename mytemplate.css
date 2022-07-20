@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Calibri');
+body { font-family: 'Calibri', sans-serif; }
+
 .remark-slide-content{
-  background: url('https://github.com/dylanpieper/PERU-theme/raw/main/mainbg.PNG') #0F0027;
+  background: #FFFFFF;
   background-size: contain;
   background-repeat: no-repeat;
   background-position: right bottom;
